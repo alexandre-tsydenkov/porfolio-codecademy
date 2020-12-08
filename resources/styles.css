@@ -273,7 +273,7 @@ margin-top: 5em;
         display:none;
     }
 
-    #{display: none;}
+    #work{display: none;}
 
 
     #header
@@ -337,7 +337,7 @@ margin-top: 5em;
     .imgcontainer {
         grid-template-columns: 1fr;
         grid-template-rows: 5em repeat(3,1fr) 5em repeat(3,1fr);
-        width: 100%;
+       
     }
 
    #usingnow {
@@ -349,8 +349,7 @@ margin-top: 5em;
 
    .icon img
 {
-    width: 25em;
-    height: 25em; 
+
     margin: 2em;
     
 }
