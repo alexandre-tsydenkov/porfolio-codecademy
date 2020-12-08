@@ -262,12 +262,27 @@ margin-top: 5em;
 
 @media only screen and (max-width: 700px) {
 
+    #work a{
+        display:none;
+        
+    }
+
+    #contact a{display: none;}
+
+    #contact {
+        display:none;
+    }
+
+    #{display: none;}
+
+
     #header
     {
-        grid-template-columns: 1fr;
+        display: none;
+        /*grid-template-columns: 1fr;
         grid-template-rows: 4em 4em;
         width: 100%;
-        justify-items: center;
+        justify-items: center;*/
 
     }
 

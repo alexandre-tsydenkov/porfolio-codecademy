@@ -1,0 +1,30 @@
+Excel skills for business
+Powerpoint
+Tableau, 
+R, SQL. SAS VBA Python. 
+
+The pragmatic programmer and clean code. 
+
+Développeur front end UX designer 
+Développeur mobile, product manager
+
+Expert react + UX/UI design fundamentals. 
+
+
+Think about installing npm node and mocha on computer 
+
+Resources : 
+
+How to design using CSS : go forward to learn css : 
+https://www.udemy.com/course/advanced-css-and-sass/
+
+https://www.udemy.com/course/css-animation-transitions-and-transforms-creativity-course/
+
+
+Freecodecamp libraries course ! FREEE
+And most importantly challenges
+
+
+Ideas to animate : 
+
+https://levelup.gitconnected.com/making-your-first-svg-animations-d79aad48f014
